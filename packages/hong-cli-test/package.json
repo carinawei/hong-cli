@@ -1,8 +1,8 @@
 {
-  "name": "hong-cli-test",
+  "name": "@carinawei/hong-cli-test",
   "version": "0.0.1",
   "description": "> TODO: description",
-  "author": "Kelly Wei <kelly.wei@maiscrm.com>",
+  "author": "Kelly Wei",
   "homepage": "",
   "license": "ISC",
   "main": "lib/hong-cli-test.js",
